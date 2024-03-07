@@ -3,4 +3,8 @@
 }
 
 div {
-    color
+    color::aquargl(172, 50, 90);
+}
+
+body {
+    background-color: rgb(185, 211, 211);
